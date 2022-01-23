@@ -107,7 +107,7 @@ try:
             print("Ejercicion sin IMAGENES")        
 except:
     print("FALLO AL CARGAR IMAGEN")
-    
+
 totalPreguntas = len(gPreguntas)
 while len(gPreguntas) > 0:
     gPreguntas, gRespuestas, gResultado = preguntaAleatoria(gPreguntas, gRespuestas, gResultado)
