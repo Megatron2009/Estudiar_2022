@@ -1,0 +1,16 @@
+Angola=Luanda
+Algèria=Alger
+Camerun=Yaoundé
+Egipte=El Caire
+Eritrea=Asmara
+Etiòpia=Addis Abeba
+Kenya=Nairobi
+Líbia=Tríopoly
+Marroc=Rabat
+Nigèria=Abuja
+República del Congo=Kinshasa
+República Sud-Àfrica=Tshwane
+Senegal=Dakar
+Sudan=Khartum
+Tunísia=Tunis
+Txad=N'Djaména
