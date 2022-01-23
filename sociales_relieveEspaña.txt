@@ -3,8 +3,8 @@
 3=Serralada Cantàbrica
 4=Muntanyes Bàsques
 5=Pirineus
-6=
-7=
+6=Sistema central
+7=serralada ibèrica
 8=
 9=
 10=
