@@ -31,7 +31,7 @@
 31=Mont Blanc
 32=Etna
 33=Olimp
-34=Escanvinava
+34=Escandinava
 35=Ibèrica
 36=Itàlica
 37=Balcànica
