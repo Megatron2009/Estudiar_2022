@@ -21,7 +21,7 @@
 21=Navía
 22=Miño
 23=Duero
-24=Tako
+24=Tajo
 25=Guadiana
 26=Guadalquivir
 27=Ter
