@@ -88,7 +88,7 @@ gPreguntas, gRespuestas = leerFichero( gFicheros[numeroFichero] )
 
 try:
     imagen = gFicheros[numeroFichero].replace('.txt', '.png')   
-    #if file exist
+    # if file exist
     if os.path.isfile(imagen):
         # load image
         img = mpimg.imread(imagen)
