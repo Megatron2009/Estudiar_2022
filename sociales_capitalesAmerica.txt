@@ -1,0 +1,12 @@
+Argentina=Buenos Aires
+Bolívia=La Paz
+Brasil=Brasília
+Canadà=Ottawa
+Colòmbia=Bogotà
+Cuba=L'Havana
+Estats Units=Washington
+Mèxic=Mèxic
+Panamà=Panamà
+Perú=Lima
+Veneçuela=Caracas
+Xile=Santiago
