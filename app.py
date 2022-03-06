@@ -104,7 +104,7 @@ try:
             imgplot = plt.imshow(img)
             plt.show( block=False )
         else:
-            print("Ejercicion sin IMAGENES")        
+            print("Ejercicio sin IMAGENES")        
 except:
     print("FALLO AL CARGAR IMAGEN")
 
